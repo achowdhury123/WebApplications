@@ -1,0 +1,1 @@
+This is a web application that loads an API of a map of the United States and allows users to perform multiple functions on it. These functions include finding the closest 10 points to a chosen point and finding the number of points within a shaded region specified by the user.
